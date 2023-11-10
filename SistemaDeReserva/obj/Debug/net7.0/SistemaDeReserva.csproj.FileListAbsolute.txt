@@ -1,0 +1,15 @@
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\bin\Debug\net7.0\SistemaDeReserva.exe
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\bin\Debug\net7.0\SistemaDeReserva.deps.json
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\bin\Debug\net7.0\SistemaDeReserva.runtimeconfig.json
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\bin\Debug\net7.0\SistemaDeReserva.dll
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\bin\Debug\net7.0\SistemaDeReserva.pdb
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\obj\Debug\net7.0\SistemaDeReserva.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\obj\Debug\net7.0\SistemaDeReserva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\obj\Debug\net7.0\SistemaDeReserva.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\obj\Debug\net7.0\SistemaDeReserva.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\obj\Debug\net7.0\SistemaDeReserva.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\obj\Debug\net7.0\SistemaDeReserva.dll
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\obj\Debug\net7.0\refint\SistemaDeReserva.dll
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\obj\Debug\net7.0\SistemaDeReserva.pdb
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\obj\Debug\net7.0\SistemaDeReserva.genruntimeconfig.cache
+C:\Users\Marcelo\Documents\Learning\DIO\SistemaDeReserva\SistemaDeReserva\obj\Debug\net7.0\ref\SistemaDeReserva.dll
